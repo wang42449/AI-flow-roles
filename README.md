@@ -1,5 +1,6 @@
 # PontsLAW(连桥）
 
+## auto,low-code,personal-cloud(方向：低代码，自动化，私有云）。
 
 ## What it do(它做了什么）
 1. it make the ponts of the win/mac/linux/chromeos/android/ios to use linux/android based on linux/android-container, cloud and personal cloud, make it a powerful place to use and support our main description.(他通过安卓/linux容器，混合云，建起了win/mac/linux/chromeos/android/ios与linux和安卓生态互通的桥梁，为该项目的大方向提供了坚实的基础。）
