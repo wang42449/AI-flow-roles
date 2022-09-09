@@ -8,4 +8,4 @@ Expand-Archive -Path "C:\Users\webdav\aliwebdav.zip" -DestinationPath "C:\Users\
 Move-Item C:\Users\webdav\aliyundriver-webdav.exe C:\Users\webdav\aliyundriver-webdav-software-ui-master\bin\aliyundriver-webdav.exe
 Start-Process C:\Users\webdav\aliyundriver-webdav-software-ui-master\aliyundriver-webdav.exe
 Start-Process -FilePath https://www.aliyundrive.com/
-Start-Process C:\Users\webdav\rclone-v1.59.1-windows-amd64\rclone.exe config && cmd /c "C:\Users\webdav\rclone-v1.59.1-windows-amd64\rclone.exe mount webdav:/ Z: --vfs-cache-mode writes"
+cmd /c "C:\Users\webdav\rclone-v1.59.1-windows-amd64\rclone.exe config && C:\Users\webdav\rclone-v1.59.1-windows-amd64\rclone.exe mount webdav:/ V: --vfs-cache-mode writes"
