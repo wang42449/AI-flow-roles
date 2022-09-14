@@ -11,6 +11,8 @@
 
 ## script store link 脚本商店链接
 
+[戳这里](https://coda.io/d/Ponts-store_dhlxeQXja8k)
+
 ## 用户上传收录到商店的步骤及规则
 
 - 类型：自动化脚本及各种平台的应用程序
