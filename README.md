@@ -13,19 +13,20 @@
 
 [戳这里 click here](https://coda.io/d/Ponts-store_dhlxeQXja8k)
 
-## 讨论：github discussions 或 商店中登录coda使用评论区
+## 讨论 commuinty：github discussions 或 商店中登录coda使用评论区 Log in to coda in the store and use the review area
 
-## 用户上传收录到脚本的步骤及规则
+## 用户上传收录到脚本的步骤及规则 Steps and rules for users to upload scripts
 
 - 类型：自动化脚本及各种平台的应用程序 Type: Automated scripts and applications on various platforms
-- 形式：脚本/应用直链+文档链接
-- 步骤：先fork,然后在user里添加你的脚本和markdown文件包括名称，介绍，直链和文档链接
+- 形式：脚本/应用直链+文档链接 Form: Script/Apply Straight Chain+Document Link
+- 步骤：先fork,然后在user里添加你的脚本和markdown文件包括名称，介绍，直链和文档链接 Step: Fork first, then add your script and markdown file to the user, including name, introduction, straight chain, and document link
 
-## 注意
+## 注意 pay attention
 本项目不以整理收集各种东西成为一个大型仓库为目的，主要包括作者的一些脚本，为了把一个项目，拆分开做，更容易点，顺便也去补充一下我发现的好东西以及加一些用户上传的脚本，所以本项目应该会走向一个小而精的项目，如果收录多了就会删除过时的和不再维护的脚本。
 
-## 目前的主题
-笔记/编辑器/notion类软件辅助
-帮助私有云搭建/使用的脚本
-扩展虚拟化使用场景的脚本
-完善linux生态的脚本 
+The purpose of this project is not to organize and collect everything to become a large warehouse. It mainly includes the author's scripts. In order to make a project easier to break apart and add some good things I found and scripts uploaded by users. So this project should move to a small and sophisticated project. If more scripts are included, obsolete and no longer maintainable scripts will be deleted.
+## 目前的主题 Current theme
+笔记/编辑器/notion类软件辅助 Note/Editor/Noton Software Assistance
+帮助私有云搭建/使用的脚本 Scripts to help build/use private clouds
+扩展虚拟化使用场景的脚本 Scripting for Extended Virtualization Usage Scenarios
+完善linux生态的脚本 Scripts to improve the Linux ecology
