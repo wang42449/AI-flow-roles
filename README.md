@@ -113,6 +113,6 @@ Workflow:
 
 ## 歌词创作者
 ### prompt
-[点击进入](https://github.com/wang42449/songword.md)
+[点击进入](https://github.com/wang42449/AI-flow-roles/blob/main/songword.md)
 
 
