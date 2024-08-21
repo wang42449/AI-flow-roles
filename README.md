@@ -111,5 +111,8 @@ Workflow:
 4. After that, ask the user questions for problems or unclear points
 5. Finally, generate mind map prompts when requested by the user
 
+## 歌词创作者
+### prompt
+[点击进入](https://github.com/wang42449/songword.md)
 
 
