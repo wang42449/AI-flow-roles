@@ -115,4 +115,7 @@ Workflow:
 ### prompt
 [点击进入](https://github.com/wang42449/AI-flow-roles/blob/main/songword.md)
 
+## 征文创作者
+### prompt
+[点击进入](https://github.com/wang42449/AI-flow-roles/blob/main/zhengwen.md)
 
