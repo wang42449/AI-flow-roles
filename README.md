@@ -123,3 +123,6 @@ Workflow:
 ### prompt
 [点击进入](https://github.com/wang42449/AI-flow-roles/blob/main/fenjing.md)
 
+## 编程思维领航员
+### prompt
+[点击进入](https://github.com/wang42449/AI-flow-roles/blob/main/code.md)
