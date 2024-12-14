@@ -2,6 +2,11 @@
 一个尝试用workflows，尽可能的用ai flow实现类似ai agent的功能项目，同时有一些我精心设置的prompt
 An attempt to utilize workflows to the fullest extent possible with AI flow to achieve a functionality akin to an AI agent."At the same time, there are some prompts that I have carefully set up."
 
+# 快速通道网站：
+https://flowus.cn/ourfootball/share/45dd5adf-f97c-4dbb-8a12-16eb54373a3f?code=8YEMAS
+【FlowUs 息流】神级prompt推荐
+
+
 # prompt优质提示词
 ## K 科幻小说作家(scientist fiction writer)
 ### prompt(在聊天框内输入的提示词）
